@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @da5011, or David Abadie. I'm currently a Senior at Tulane University studying Chemical Engineering.
-- 👀 I’m interested in Thermodynamics and Statistical Mechanics, as well as kinetics and polymers! Of course, I enjoy learning about ways to model these phenomena. Also potentially interested in GameDev using Unreal/C++
-- 🌱 I’m currently trying to study more in these fields, as well as good programming languages and methods to model them efficienlty and accurately.
--    [As of now, I've studied some C/C++, FORTRAN, R, Python, VBA, and SQL]
+- 👀 I’m primarily interested in Thermodynamics and Statistical Mechanics and ways to probe systems through the lenses of these disciplines. I'm also potentially interested in GameDev using Unity/C#, or Unreal/C++
+- 🌱 As of now, I am proficiently experience in C/C++, Python, FORTRAN, and VBA, with some background in R and SQL.
 - 📫 To contact, please email me at dabadie@tulane.edu
